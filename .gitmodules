@@ -1,0 +1,9 @@
+[submodule "services/sensors-temperature-monitoring"]
+	path = services/sensors-temperature-monitoring
+	url = git@github.com:john182/sensors-temperature-monitoring.git
+[submodule "services/sensors-temperature-processing"]
+	path = services/sensors-temperature-processing
+	url = git@github.com:john182/sensors-temperature-processing.git
+[submodule "services/sensors-device-management"]
+	path = services/sensors-device-management
+	url = git@github.com:john182/sensors-device-management.git
